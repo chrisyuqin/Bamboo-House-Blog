@@ -1,0 +1,9 @@
+{
+  "name": "Bamboo-House-Blog",
+  "version": "1",
+  "description": "Bamboo-House-Blog",
+  "main": "index.js",
+  "repository": "https://github.com/chrisyuqin/Bamboo-House-Blog.git",
+  "author": "Chris",
+  "license": "MIT"
+}
