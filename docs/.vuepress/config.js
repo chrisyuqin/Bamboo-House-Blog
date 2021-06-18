@@ -1,7 +1,7 @@
 module.exports = {
     title: 'BamBoo-House',
     description: 'Just playing around',
-    base: '/zh/',
+    base: '/',
     // .vuepress/config.js
     themeConfig: {
         lastUpdated: 'Last Updated', // string | boolean
