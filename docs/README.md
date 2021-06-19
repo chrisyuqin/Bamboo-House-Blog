@@ -1,6 +1,5 @@
 ---
 home: true 
-//heroImage: /img/bamoo.png
 heroText: BamBoo-House
 tagline: A house surrounded by bamboo. Tea, reading
 actionText: 快速上手 →
